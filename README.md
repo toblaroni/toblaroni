@@ -4,7 +4,7 @@
 - I'm currently learning how compilers are designed and implemented!
 
 ### 🔥 My Stats
-<div style="display:flex; justify-content:space-around; align-items:center; flex-direction:row">
+<div style="display:flex; justify-content:space-around; align-items:center; flex-direction:column">
   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toblaroni&layout=compact&theme=vision-friendly-dark" />
   <img class="img" src="https://streak-stats.demolab.com/?user=toblaroni&theme=dark&background=000000" />
 </div>
