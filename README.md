@@ -1,4 +1,5 @@
-### Hi there 👋
+### Toby Hutchinson
+I'm [Toby Hutchinson](https://www.toader.xyz), I'm currently in my second year of Computer Science at the University of Leeds.
 
 <!--
 **toblaroni/toblaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
