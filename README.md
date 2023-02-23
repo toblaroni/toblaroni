@@ -5,8 +5,8 @@
 
 ### 🔥 My Stats
 <p align="center">
-  <img class="img" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toblaroni&layout=compact&theme=vision-     friendly-dark" />  
+  <img class="img" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toblaroni&layout=compact&theme=vision-friendly-dark" />
 </p>
 <p align="center">
-  <img class="img" width="100%" align="center" src="https://streak-stats.demolab.com/?user=toblaroni&theme=dark&background=000000" />
+  <img class="img" width="50%" src="https://streak-stats.demolab.com/?user=toblaroni&theme=dark&background=000000" />
 </p>
